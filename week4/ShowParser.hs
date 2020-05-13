@@ -27,6 +27,6 @@ run_parser p str = case parse p "" str of
 parseShow :: String -> String
 parseShow s = ""
 
-showParser :: Parser String
+-- showParser :: Parser String
 
 
